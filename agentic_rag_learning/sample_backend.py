@@ -1,3 +1,6 @@
+# not a working program, neither have i worked in it , but very useful to understand the structure.
+
+
 import sqlite3
 from autogen_agentchat.agents import AssistantAgent
 from autogen_agentchat.conditions import TextMentionTermination
